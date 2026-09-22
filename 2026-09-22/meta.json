@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-22",
+ "date_ko": "2026년 9월 22일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "복음을 듣지 못하고 돌아가신 할아버지는 어떻게 되셨을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "전도사 사례비 130만 원과 건축 대출 — 제직회가 먼저 갚아야 할 빚은 무엇인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "부활 이야기가 복음서마다 다르던데요. 무덤에 간 사람도 다르고 천사 수도 다른데, 그걸 어떻게 사실이라고 해요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "제삿날 큰집에 모이는 불빛도 불빛이지만,"
+  }
+ ]
+}
