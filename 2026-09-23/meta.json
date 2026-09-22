@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-23",
+ "date_ko": "2026년 9월 23일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "십일조는 지금도 의무일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "'종교성 유전자 점수' 검사가 유행하는 교회 — 믿음은 체질인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "야, 코로나 때 확진자 명단 제대로 안 낸 데가 교회밖에 없었어. 그러면서 이웃 사랑을 무슨 낯으로 말해?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "He knew only that the child was his warrant."
+  }
+ ]
+}
