@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-24",
+ "date_ko": "2026년 9월 24일 목요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "십일조를 드리지 않으면 하나님의 것을 도둑질하는 걸까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "종교 성향 유전 점수가 매겨진 나라들 — 교단 선교비를 어디에 몰 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "야, 근데 너넨 왜 남 연애까지 참견해? 동거를 하든 자든 서로 좋아서 하는 건데 그게 누구한테 피해를 줘?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "사람들은 아버지를 난장이라고 불렀다."
+  }
+ ]
+}
