@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-25",
+ "date_ko": "2026년 9월 25일 금요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "하나님이 가나안 사람을 다 죽이라고 명령하셨을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "성과 점수가 0인 무료 급식 — 교회 복지관은 무엇을 접을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "야, 우리 교회 부목사가 여학생 성추행한 거 다들 알았는데, 당회는 피해자한테 기도해라, 교회 무너진다고 하고 그 목사는 옆 교회로 부임했어.…"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "He knew only that the child was his warrant."
+  }
+ ]
+}
