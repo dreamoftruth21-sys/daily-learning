@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-26",
+ "date_ko": "2026년 9월 26일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "기도하면 하나님의 뜻이 바뀔까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "통역기가 언어 장벽을 없앤 시대의 선교사 훈련 — 3년을 아껴 세 배를 보낼 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "목사님, 저 교회 나온 지 10년인데요. 아직도 안 믿어져요. 믿어야 하는 건 아는데 마음이 안 믿어지는 걸 어떡해요."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "여름 징역은 자기의 바로 옆 사람을 증오하게 한다는 사실 때문입니다."
+  }
+ ]
+}
