@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-28",
+ "date_ko": "2026년 9월 28일 월요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "성경에 틀린 숫자가 하나라도 있으면 다 무너지는 걸까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "청빙 시뮬레이션이 뽑은 후보 — 3년 뒤 출석 +18%인 목사를 청빙할 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아니 목사님, 교회 다니는 사람들은 왜 그렇게 정치판에 나가요? 저번에 시청 앞에 목사들이 마이크 잡고 있던데, 예수 믿는 거랑 그게 무슨 상관…"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "모두 병들었는데 아무도 아프지 않았다"
+  }
+ ]
+}
