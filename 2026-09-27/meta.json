@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-27",
+ "date_ko": "2026년 9월 27일 일요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "그리스도인이 전쟁에서 사람을 죽여도 되는가"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "시세의 60%로 30년 — 교회 상가 임대료를 올려 아동센터를 살릴 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 내가 만약에 태국에서 태어났으면 그냥 불교 믿었을 거잖아. 그럼 기독교가 맞다는 것도 내가 한국에서 태어나서 그런 거 아니에요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "As he buckled the swollen belt suddenly my groin felt the chill of death."
+  }
+ ]
+}
