@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-29",
+ "date_ko": "2026년 9월 29일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "부흥은 사람이 계획해서 일으킬 수 있을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "원아 12명의 교회 어린이집 — 노인 주간보호센터로 바꿀 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "선생님, 하나님 진짜 있으면 그냥 한 번 나타나시면 안 돼요? 그러면 다 믿을 텐데 왜 숨어 계세요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "Freeing yourself was one thing; claiming ownership of that freed self was anothe…"
+  }
+ ]
+}
