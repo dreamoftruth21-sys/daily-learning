@@ -1,0 +1,30 @@
+{
+ "date": "2026-09-30",
+ "date_ko": "2026년 9월 30일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "한 번 받은 구원은 잃어버릴 수 있을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "기억 검사를 거부하면 직무 정지 — 교단 재판에 뇌 검사를 들일 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "형, 동물은 죄를 지은 적도 없잖아요. 사람 나오기 수억 년 전부터 서로 잡아먹고 암 걸려 죽었는데, 그렇게 설계한 신을 사랑이라고 부르는 게…"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "일찌기 나는 아무것도 아니었다."
+  }
+ ]
+}
