@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-01",
+ "date_ko": "2026년 10월 1일 목요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "여성은 목사가 될 수 있을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "교회 상조회 가입 제한 — 1인 가구 노년 교인을 받을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "중보기도 효과 있는지 대규모로 실험했는데 다 아니라고 나왔다면서요. 그럼 기도는 그냥 자기 위안 아니에요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "For all serious daring starts from within."
+  }
+ ]
+}
