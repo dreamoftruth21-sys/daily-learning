@@ -1,5 +1,30 @@
 {
  "date": "2026-10-09",
  "date_ko": "2026년 10월 9일 금요일",
- "items": []
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "내가 예수를 믿기로 한 것은 내 선택일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "회심 예측 점수가 들어온 교단 보조금 심사 — 교육관을 누구에게 줄 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "교회 다니는 사람들이 제일 안 믿어져요. 나보다 착한 사람 몇 없어요. 나 평생 남 속인 적 없고 부모님 모셨고 애들 다 키웠어요. 근데 왜 내…"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "I think there is no suffering greater than what is caused by the doubts of those…"
+  }
+ ]
 }
