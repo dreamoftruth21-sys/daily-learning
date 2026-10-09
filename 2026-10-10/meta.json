@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-10",
+ "date_ko": "2026년 10월 10일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "신사참배를 했던 목사를 다시 목사로 받아 주어야 할까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "수급 어르신 70%의 교회 요양원 — 빈 병상을 누구로 채울 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "성경은 원본이 없고 사본마다 글자가 다르다던데, 그런 걸 어떻게 하나님 말씀이라고 믿어요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "박제가 되어버린 천재를 아시오?"
+  }
+ ]
+}
