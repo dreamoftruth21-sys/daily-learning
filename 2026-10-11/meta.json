@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-11",
+ "date_ko": "2026년 10월 11일 일요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "휴거는 큰 환난이 오기 전에 일어날까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "중독 갈망을 지우는 치료가 나온 뒤 — 교단 재단은 회복 공동체를 접을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "역사에서 사람 제일 많이 죽인 게 종교잖아요. 십자군이다 마녀사냥이다 하면서. 그런 걸 뭘 믿어요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "The cradle rocks above an abyss, and common sense tells us that our existence is…"
+  }
+ ]
+}
