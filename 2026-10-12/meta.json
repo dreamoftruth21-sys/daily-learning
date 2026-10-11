@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-12",
+ "date_ko": "2026년 10월 12일 월요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "방언은 오늘날에도 있을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "선교관 지을 땅이 없어진 뒤 — 묶인 지정 헌금 1억 2천을 풀 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "야, 뇌 실험 보면 사람이 결정했다고 느끼기 전에 뇌가 벌써 움직인다잖아. 그럼 하나님이 죄 지었다고 심판하는 게 말이 돼?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "나는 심한 부끄러움을 느꼈다."
+  }
+ ]
+}
