@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-13",
+ "date_ko": "2026년 10월 13일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "성경이 왜 66권인지는 누가 정했을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "번역 적합도 61% 성경 — 20년 걸린 번역을 폐기할 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "나 교회 끊은 지 2년 됐는데 아무 일도 안 생겼어. 벌 받는다더니 오히려 전보다 편해. 그러면 그게 다 뭐였던 거야?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "It ís the blight man was born for,"
+  }
+ ]
+}
