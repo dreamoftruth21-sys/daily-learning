@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-14",
+ "date_ko": "2026년 10월 14일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "기도해도 병이 낫지 않는 것은 믿음이 부족해서일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "교회 셔틀을 20년 몰아 온 장로 — 보험이 보상을 줄인다는 조건 앞에서"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "종교는 결국 장님들이 코끼리 만지는 거 아니에요? 기독교만 코끼리를 다 봤다는 게 좀 오만한데요."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "그러니까 이것은, 자식이 부모보다 빨리 늙는 이야기다."
+  }
+ ]
+}
