@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-15",
+ "date_ko": "2026년 10월 15일 목요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "하나님을 잘 믿으면 부자가 되는가"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "남은 수명을 재서 나눈 교단 연금 — 오래 살 목사에게 덜 줄 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "그때 교회들 예배 강행해서 집단감염 낸 거, 그게 신앙이야? 나 교인 명단 받으려고 교회에 전화 돌렸던 사람이야."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "Yes, as every one knows, meditation and water are wedded for ever."
+  }
+ ]
+}
