@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-16",
+ "date_ko": "2026년 10월 16일 금요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "유대인은 정말 행위로 구원받으려 했을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "원로목사 예우금 380만 원과 부목사 한 명 — 30년 전 공동의회 결의를 지킬 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "예수가 훌륭한 스승이었다는 건 저도 인정해요. 그런데 신이라는 건 나중에 제자들이 높이려고 붙인 거 아닌가요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "흐르는 것이 물뿐이랴"
+  }
+ ]
+}
