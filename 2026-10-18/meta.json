@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-18",
+ "date_ko": "2026년 10월 18일 일요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "지옥의 불은 영원히 꺼지지 않을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "출산장려금 5년, 늘지 않은 아기 — 교회는 이 돈을 계속 줄 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "내 목숨 끝내는 것도 내 맘대로 못 하우? 자식들한테 짐 되기 싫어서 그러는 건데, 그게 왜 죄요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "산허리는 온통 메밀밭이어서 피기 시작한 꽃이 소금을 뿌린 듯이 흐뭇한 달빛에 숨이 막힐 지경이다."
+  }
+ ]
+}
