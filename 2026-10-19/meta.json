@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-19",
+ "date_ko": "2026년 10월 19일 월요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "주일에 식당에 가면 안 될까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "배고픔을 끄는 주사 — 금식기도원은 '금식 패키지'를 팔 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 성경에 종은 주인한테 순종하라고 나오잖아. 노예제 찬성하는 책을 왜 도덕 기준이라고 해?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "After all, what can we ever gain in forever looking back and blaming ourselves i…"
+  }
+ ]
+}
