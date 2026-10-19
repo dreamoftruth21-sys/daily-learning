@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-20",
+ "date_ko": "2026년 10월 20일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "예수님도 죄를 지을 수 있었을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "장로 임직 감사헌금 1,000만 원 — 30년 관례를 없앨 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 물 위를 걷고 죽은 사람이 살아났다는 걸 지금 믿으라고? 과학 시간엔 자연법칙은 안 깨진다고 배우는데."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "늦은 저녁때 오는 눈발은 말집 호롱불 밑에 붐비다"
+  }
+ ]
+}
