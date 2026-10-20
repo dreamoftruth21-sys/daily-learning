@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-21",
+ "date_ko": "2026년 10월 21일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "성경만 있으면 교회의 전통은 필요 없을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "기도가 사망률을 낮춘다는 연구 뒤 — 병원이 고른 환자만 맡을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "장사 30년 동안 외상 떼먹고 도망간 사람 절반이 교회 집사였어요. 예수 믿으면 사람이 바뀐다면서 왜 교회 다니는 사람이 더 질이 나빠요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "Time is but the stream I go a-fishing in."
+  }
+ ]
+}
