@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-22",
+ "date_ko": "2026년 10월 22일 목요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "죽으면 바로 천국에 갈까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "최저임금이 닿지 않는 돌봄 노동 — 교회가 소개하는 필리핀 돌봄 인력의 임금 조건"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "나 하나님은 아직 믿어. 근데 교회는 이제 안 갈래. 혼자 믿으면 안 되는 거야?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "계절이 지나가는 하늘에는"
+  }
+ ]
+}
