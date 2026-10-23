@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-24",
+ "date_ko": "2026년 10월 24일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "하나님은 정말 엿새 동안 세상을 만드셨을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "교인에게 빌린 건축비 — '헌금 전환 동의서'를 받을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "선배, 솔직히 전도하는 거 좀 무례하지 않아요? 저도 저희 집 종교가 있는데, 자꾸 교회 가자고 하시면 제 믿음을 무시하는 것 같아요."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "당신이 죽은 뒤 장례식을 치르지 못해, 내 삶이 장례식이 되었습니다."
+  }
+ ]
+}
