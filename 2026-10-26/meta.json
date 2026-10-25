@@ -1,0 +1,30 @@
+{
+ "date": "2026-10-26",
+ "date_ko": "2026년 10월 26일 월요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "나쁜 정부에도 복종하는 것이 하나님의 뜻일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "의대 합격자에게 300만 원 — 교회 장학금은 누구에게 줄 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "야, 부활은 그냥 제자들이 본 환각이라고 하면 다 설명되잖아. 가족 잃은 사람이 죽은 사람 봤다는 얘기, 나 진료실에서 맨날 들어."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "사랑을 잃고 나는 쓰네"
+  }
+ ]
+}
