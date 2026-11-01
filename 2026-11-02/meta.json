@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-02",
+ "date_ko": "2026년 11월 2일 월요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "교회를 갈라서 나오는 것은 죄일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "아들만 서겠다는 14억 보증 — 세습 금지에 예외를 청할 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "우리 어머니는 목사님 말에 토 달면 벌 받는다고 벌벌 떠시던데, 목사가 무슨 왕입니까? 교회는 원래 그런 데예요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "The essence of being human is that one does not seek perfection, that one is som…"
+  }
+ ]
+}
