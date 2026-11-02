@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-03",
+ "date_ko": "2026년 11월 3일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "천국에서 받는 상은 사람마다 다를까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "몸 나이 58세인 71세 목사 — 교단 정년을 몸 나이로 바꿀 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "저는 명상하면서 내 마음은 내가 다스리는 거라고 배웠어요. 기독교는 왜 자꾸 하나님께 기대라고 해요? 그건 좀 나약한 거 아닌가요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "지금은 남의 땅—빼앗긴 들에도 봄은 오는가?"
+  }
+ ]
+}
