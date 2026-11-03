@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-04",
+ "date_ko": "2026년 11월 4일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "부모님 제사상 앞에서 절해도 될까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "36개월 교도소 대체복무를 신청한 청년 — 당회는 교회 이름으로 확인서를 써 줄 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "나한테 3천 빌려 간 놈은 외제차 끌고 잘만 사는데, 하나님이 공평하다는 게 말이 돼?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "All you have to do is write one true sentence."
+  }
+ ]
+}
