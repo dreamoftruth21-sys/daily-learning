@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-06",
+ "date_ko": "2026년 11월 6일 금요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "이 고통에도 하나님의 뜻이 있을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "부교역자 4대 보험과 퇴직금 — 선교사 두 가정의 후원을 끊고 근로 계약을 맺을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "사랑이 다 식었는데도 같이 사는 게, 이혼하는 것보다 더 거짓말 아니에요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "We live, as we dream—alone."
+  }
+ ]
+}
