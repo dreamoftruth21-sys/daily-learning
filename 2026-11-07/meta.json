@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-07",
+ "date_ko": "2026년 11월 7일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "그리스도인이 부자로 사는 것은 괜찮을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "아파하는지 모르는 뇌 조직 — 기독교 병원은 40억 원 오가노이드 과제를 받을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 여호수아 읽다가 하나님이 여리고 사람들을 애들까지 다 죽이라고 한 거 봤어. 그거 IS가 하는 거랑 뭐가 달라?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "버리고 갈 것만 남아서 참 홀가분하다"
+  }
+ ]
+}
