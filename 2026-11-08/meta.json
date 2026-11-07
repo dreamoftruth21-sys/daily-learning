@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-08",
+ "date_ko": "2026년 11월 8일 일요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "하나님은 나를 보실 때 예수님의 의를 보실까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "'고아'로 꾸민 입양 서류: 교단 재단은 5억 원을 누구에게 쓸 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "삼촌, 옛날엔 천둥도 신이 친다고 했잖아. 과학이 하나씩 다 설명하면 하나님은 결국 할 일이 없어지는 거 아냐?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "Go, go, go, said the bird: human kind"
+  }
+ ]
+}
