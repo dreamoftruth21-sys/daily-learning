@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-09",
+ "date_ko": "2026년 11월 9일 월요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "교회 안에 예수님 그림을 걸어도 될까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "충돌까지 12년 — 건축 적립금으로 교육관을 지을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "우리 아버지가 장로로 있던 교회, 담임목사 문제로 두 쪽 나서 법원까지 갔잖아. 서로 사랑하라던 사람들이 그러는데 내가 거길 왜 다시 가?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "우리는 만날 때에 떠날 것을 염려하는 것과 같이 떠날 때에 다시 만날 것을 믿습니다."
+  }
+ ]
+}
