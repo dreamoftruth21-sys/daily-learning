@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-10",
+ "date_ko": "2026년 11월 10일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "일찍 세상을 떠난 아기는 천국에 갔을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "어머니가 교회에 남긴 아파트 — 간병한 딸에게 법이 정한 절반만 줄 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 솔직히 나 천국 별로 가고 싶지 않아. 영원히 찬양만 부르는 거면 너무 지루할 것 같아."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "It began to seem that one would have to hold in the mind forever two ideas which…"
+  }
+ ]
+}
