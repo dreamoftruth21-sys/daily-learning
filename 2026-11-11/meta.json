@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-11",
+ "date_ko": "2026년 11월 11일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "목사는 평신도와 다른 특별한 사람일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "새벽 세 시에 같이 기도하는 로봇 — 당회는 교구 전도사 대신 돌봄 로봇을 들일 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "너네 교회랑 신천지랑 뭐가 다른데? 둘 다 성경 들고 와서 사람 끌어들이고 돈 내라 하잖아."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "바다는, 크레파스보다 진한, 푸르고 육중한 비늘을 무겁게 뒤채면서, 숨을 쉰다."
+  }
+ ]
+}
