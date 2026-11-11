@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-12",
+ "date_ko": "2026년 11월 12일 목요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "예수님은 이 땅에 계실 때 모든 것을 다 아셨을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "법이 생긴 뒤의 베이비박스: 교회는 15년 후원을 이어 갈 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "목사님, 유튜브에서 봤는데요. 예수 이야기가 이집트 호루스 신화를 베낀 거래요. 처녀한테서 태어나고 제자가 열둘이고 죽었다 살아난 것까지 다 똑…"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "A story has no beginning or end: arbitrarily one chooses that moment of experien…"
+  }
+ ]
+}
