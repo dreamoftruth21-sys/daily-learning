@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-14",
+ "date_ko": "2026년 11월 14일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "그리스도인은 이 땅에서 죄 없이 살 수 있을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "하룻밤에 외운 성경 66권 — 신학교는 성경 과목을 접고 시술비를 댈 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "기독교는 결국 미국 종교 아냐? 한국 사람이 왜 남의 나라 종교를 믿어?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "Do any human beings ever realize life while they live it?—every, every minute?"
+  }
+ ]
+}
