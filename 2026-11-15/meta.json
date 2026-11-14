@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-15",
+ "date_ko": "2026년 11월 15일 일요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "이 세상은 결국 불타 없어질까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "재개발 보상 45억 원과 교육관 열쇠 — 당회는 조합의 조건에 서명할 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "목사님이 할머니 돌아가신 것도 하나님 뜻이래요. 그럼 그 음주운전 트럭도 하나님이 보낸 거예요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "나는 시방 위험한 짐승이다."
+  }
+ ]
+}
