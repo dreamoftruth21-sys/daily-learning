@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-17",
+ "date_ko": "2026년 11월 17일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "예배 시간에 드럼을 쳐도 될까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "\"할머니는 나와 함께 있단다\" — 교단은 AI 예수를 교회학교 공과에 넣을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "결국 기독교는 가난한 사람한테 천국 가면 다 보상받으니까 참아 하는 거잖아. 마르크스가 종교는 아편이라고 한 게 딱 그 말 아니야?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "새침하게 흐린 품이 눈이 올 듯하더니 눈은 아니 오고 얼다가 만 비가 추적추적 내리는 날이었다."
+  }
+ ]
+}
