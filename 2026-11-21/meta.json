@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-21",
+ "date_ko": "2026년 11월 21일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "아담과 하와는 실제로 있었던 사람일까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "팔리지 않는 옛 예배당과 무슬림 유학생 기도처: 당회는 매각 계약서에 도장을 찍을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 레위기에 새우 먹지 말라는 건 아무도 안 지키면서 동성애 하지 말라는 구절만 지키는 거, 그거 그냥 골라 먹기 아니야?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "알싸한, 그리고 향긋한 그 냄새에 나는 땅이 꺼지는 듯이 온 정신이 고만 아찔하였다."
+  }
+ ]
+}
