@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-22",
+ "date_ko": "2026년 11월 22일 일요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "하나님도 우리와 함께 아파하실까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "탄소 헌금: 교회는 어르신들의 남은 할당을 걷어 청년 단기선교를 보낼 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "아빠, 믿음이라는 게 결국 증거 없이 믿는 거잖아. 과학 시간엔 증거 없으면 믿지 말라고 배우는데."
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "So we beat on, boats against the current, borne back ceaselessly into the past."
+  }
+ ]
+}
