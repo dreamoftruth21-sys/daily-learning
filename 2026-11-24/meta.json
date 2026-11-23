@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-24",
+ "date_ko": "2026년 11월 24일 화요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "목사가 강단에서 정치 이야기를 하면 안 될까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "걸어서 십 분 거리의 개척교회 — 당회는 부목사 청빙 서약서에 개척 금지 조항을 넣을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "목사님, 교회도 결국 돈 있고 직분 높은 사람 말만 통하던데요. 세상이랑 뭐가 달라요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "Angels can fly because they can take themselves lightly."
+  }
+ ]
+}
