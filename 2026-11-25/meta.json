@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-25",
+ "date_ko": "2026년 11월 25일 수요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "믿음만으로 구원받는다면 야고보서는 왜 행함을 요구할까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "「무섭다」고 뜨는 송아지 — 교단은 농촌 교회 송아지 지원을 이어 갈 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "나 요새 교회 한번 나가 볼까 싶은데, 이거 죽을 날 가까워지니까 겁나서 그러는 거 아니냐. 평생 안 믿다가 이제 와서 매달리는 게 염치가 있냐…"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "사월도 알맹이만 남고"
+  }
+ ]
+}
