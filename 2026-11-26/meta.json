@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-26",
+ "date_ko": "2026년 11월 26일 목요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "예수님은 베드로 위에 교회를 세우셨을까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "등록증 사본을 내라는 보조금: 교회 쉼터는 미등록 이주노동자 명단을 낼 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "목사님, 그 큰 교회도 아들한테 물려줬다면서요? 교회도 결국 가족 장사 아니에요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "No one ever told me that grief felt so like fear."
+  }
+ ]
+}
