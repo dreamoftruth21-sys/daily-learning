@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-27",
+ "date_ko": "2026년 11월 27일 금요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "천년왕국은 정말 천 년 동안 이 땅에 세워질까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "버리지 않고 고치는 배아 — 교회 난임 지원금에 유전자 편집 시술비를 넣을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "목사님, 세상 모든 게 누가 만든 거라면 하나님은 누가 만들었어요? 그건 모른다고 하면 좀 반칙 아니에요?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "저게 저절로 붉어질 리는 없다"
+  }
+ ]
+}
