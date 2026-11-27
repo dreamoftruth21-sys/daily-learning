@@ -1,0 +1,30 @@
+{
+ "date": "2026-11-28",
+ "date_ko": "2026년 11월 28일 토요일",
+ "items": [
+  {
+   "slug": "theology",
+   "kicker": "THEOLOGY",
+   "label": "신학",
+   "title": "성찬은 매주 해야 할까"
+  },
+  {
+   "slug": "thinking",
+   "kicker": "THINKING",
+   "label": "사고 훈련",
+   "title": "선교 장학금으로 나간 아들 유학비 3,600만 원 — 당회는 공동의회 결산 보고에 이 일을 적을 것인가"
+  },
+  {
+   "slug": "apologetics",
+   "kicker": "APOLOGETICS",
+   "label": "변증",
+   "title": "엄마 암일 때 새벽마다 기도했는데 엄마는 돌아가셨고, 같이 기도받던 집사님은 나았다고 간증하더라. 하나님이 사람 골라서 살려 주냐?"
+  },
+  {
+   "slug": "literature",
+   "kicker": "LITERATURE",
+   "label": "오늘의 문장",
+   "title": "What we, or at any rate what I, refer to confidently as memory—meaning a moment,…"
+  }
+ ]
+}
